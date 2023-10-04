@@ -1,0 +1,19 @@
+.title{
+        background: linear-gradient(300deg, blue, #ff4c, crimson);
+        background-size: 180% 180%;
+        animation: gradient-animation 18s ease infinite; 
+}
+.bi{
+        height:30px;
+        width:160px;
+        padding-right: 10px;
+}
+.about{
+        margin-left: 100px;
+        background-color:white;
+}
+.footer{
+        background: linear-gradient(300deg, blue, #ff4c, crimson);
+        background-size: 180% 180%;
+        animation: gradient-animation 18s ease infinite;   
+}
